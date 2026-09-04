@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/niteshdsa/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/niteshdsa/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/niteshdsa/Leetcode/tree/master/0258-add-digits) |
 ## Array
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/niteshdsa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/niteshdsa/Leetcode/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niteshdsa/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/niteshdsa/Leetcode/tree/master/0258-add-digits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/niteshdsa/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
