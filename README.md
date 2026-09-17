@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/niteshdsa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/niteshdsa/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/niteshdsa/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/niteshdsa/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/niteshdsa/Leetcode/tree/master/0724-find-pivot-index) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/niteshdsa/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/niteshdsa/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
