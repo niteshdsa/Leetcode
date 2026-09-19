@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/niteshdsa/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/niteshdsa/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/niteshdsa/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/niteshdsa/Leetcode/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/niteshdsa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/niteshdsa/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/niteshdsa/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/niteshdsa/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/niteshdsa/Leetcode/tree/master/0704-binary-search) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/niteshdsa/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/niteshdsa/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/niteshdsa/Leetcode/tree/master/0344-reverse-string) |
 ## String
