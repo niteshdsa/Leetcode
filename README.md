@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/niteshdsa/Leetcode/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/niteshdsa/Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
