@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/niteshdsa/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/niteshdsa/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/niteshdsa/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/niteshdsa/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/niteshdsa/Leetcode/tree/master/0258-add-digits) |
 ## Array
 |  |
@@ -98,5 +99,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/niteshdsa/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/niteshdsa/Leetcode/tree/master/0476-number-complement) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/niteshdsa/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
