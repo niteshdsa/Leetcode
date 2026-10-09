@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/niteshdsa/Leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/niteshdsa/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/niteshdsa/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/niteshdsa/Leetcode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/niteshdsa/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/niteshdsa/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niteshdsa/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/niteshdsa/Leetcode/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/niteshdsa/Leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
