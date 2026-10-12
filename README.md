@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/niteshdsa/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/niteshdsa/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/niteshdsa/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niteshdsa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/niteshdsa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/niteshdsa/Leetcode/tree/master/0189-rotate-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/niteshdsa/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/niteshdsa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/niteshdsa/Leetcode/tree/master/0344-reverse-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/niteshdsa/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/niteshdsa/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshdsa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/niteshdsa/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
