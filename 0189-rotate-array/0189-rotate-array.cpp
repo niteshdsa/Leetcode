@@ -1,14 +1,34 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        vector<int> temp(nums.size());    // yha pr temp isisliye liye  hai kyuki nums agr code rhta to elements override ho jate
+        int n = nums.size();
+        k = k % n;
+        int temp = nums[n - 1];
 
-        for(int i = 0; i < nums.size(); i++)
+        // Step 1: Reverse the last K elements
+        int start = nums.size() - k;
+        int end = nums.size() - 1;
+        while(start < end)
         {
-            temp[(i+k) % nums.size()] = nums[i];   // yha pr temp wale array me nums wale elements ko rkhte jana hai
+            swap(nums[start++], nums[end--]);
         }
 
-        // copy kr do temp wale array ko
-        nums = temp;
+        // Step 2: Reverse the remaining elements
+        start = 0;
+        end = nums.size() - k - 1;
+        while(start < end)
+        {
+            swap(nums[start++], nums[end--]);
+        }
+
+        // Step 3: Reverse the entire elements
+        start = 0;
+        end = nums.size() - 1;
+        while(start < end)
+        {
+            swap(nums[start++], nums[end--]);
+        }
+
+        
     }
 };
